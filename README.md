@@ -136,6 +136,7 @@ Questions can be asked by raising an `Issue`.
 - [Conor O Shea](https://github.com/conoroshea1996)
 - [Dibyajit Tripathy](https://github.com/DibyajitTripathy)
 - [Danella Patrick](https://github.com/danellapatrick)
+- [Daniel Honrales](https://github.com/danielhonrales)
 - [Deepak B](https://github.com/sbdeepu09)
 - [Deepak Hagadur Bheemaraju](https://github.com/deepakhb2)
 - [Dhairya Ostwal](https://github.com/dhairyaostwal)
